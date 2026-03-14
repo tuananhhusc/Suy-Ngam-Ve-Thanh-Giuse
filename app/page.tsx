@@ -69,7 +69,7 @@ export default function Home() {
 
             <div className="max-w-3xl mx-auto">
               <LightboxImage 
-                src="/st-joseph-art.png" 
+                src="/Suy-Ngam-Ve-Thanh-Giuse/st-joseph-art.png" 
                 alt="Thánh Giuse và Chúa Hài Nhi"
                 caption="Thánh Giuse và Chúa Hài Nhi - Một tuyệt tác nghệ thuật cổ điển thể hiện sự bảo trợ thầm lặng."
               />

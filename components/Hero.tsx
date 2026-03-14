@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/hero-bg.png" 
+          src="/Suy-Ngam-Ve-Thanh-Giuse/hero-bg.png" 
           alt="Saint Joseph Background" 
           className="w-full h-full object-cover opacity-40 mix-blend-luminosity scale-105"
         />

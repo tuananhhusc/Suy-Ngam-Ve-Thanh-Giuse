@@ -49,7 +49,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "ScholarlyArticle",
               "headline": "Thánh Giuse: Dung Mạo, Sứ Mạng & Di Sản Tâm Linh",
-              "image": "https://thanhgiuse.vn/hero-bg.png",
+              "image": "https://tuananhhusc.github.io/Suy-Ngam-Ve-Thanh-Giuse/hero-bg.png",
               "author": {
                 "@type": "Organization",
                 "name": "Nghiên Cứu Thần Học Việt Nam"
