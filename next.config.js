@@ -2,11 +2,10 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  // GitHub Pages deployment usually happens at https://<username>.github.io/<repo-name>/
   basePath: '/Suy-Ngam-Ve-Thanh-Giuse',
   images: {
     unoptimized: true,
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
